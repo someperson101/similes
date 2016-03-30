@@ -1,5 +1,5 @@
 # similes
-An unfinished (for humorous effect) simile generator. If it were finished, it wouldn't generate such odd similes!
+An unfinished (for humorous effect) simile generator. If it were finished, it wouldn't generate such odd similes (or throw so many exceptions, I'm lucky when it actually works).
 
 ### Sample output:
 Cats are as unintelligent as a doorknob.
